@@ -6,5 +6,5 @@ In de vakantiewereld is een groeiende vraag naar reizen speciaal voor alleenstaa
 
 De website project van ons team is te bekijken op de volgende link: https://is107-1.fys.cloud  
 Of een andere andere mogelijke links zijn:  
-Mockup https://mockup-is107-1.fys.cloud
+Mockup https://mockup-is107-1.fys.cloud   
 Development https://dev-is107-1.fys.cloud
